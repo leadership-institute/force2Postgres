@@ -1,0 +1,26 @@
+# Dependency directories
+node_modules/
+
+# TypeScript output directory
+dist/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Yarn
+yarn-error.log
+.yarn-integrity
+
+# npm
+package-lock.json
