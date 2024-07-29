@@ -22,6 +22,13 @@ Force2Postgres is a tool that converts Salesforce object metadata to PostgreSQL 
 |-------------------|-------------------|
 | (No tables generated yet) |
 
+## Install
+
+Clone this repository locally and build the typescript app
+
+```npm install && npm build```
+
+
 ## Usage
 
 Run the following command to process Salesforce objects:
